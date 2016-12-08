@@ -1,0 +1,11 @@
+C:\Users\student2\Documents\ERP-6\cnsl-Toplama\cnsl-Toplama\bin\Debug\cnsl-Toplama.exe.config
+C:\Users\student2\Documents\ERP-6\cnsl-Toplama\cnsl-Toplama\bin\Debug\cnsl-Toplama.exe
+C:\Users\student2\Documents\ERP-6\cnsl-Toplama\cnsl-Toplama\bin\Debug\cnsl-Toplama.pdb
+C:\Users\student2\Documents\ERP-6\cnsl-Toplama\cnsl-Toplama\obj\Debug\cnsl-Toplama.exe
+C:\Users\student2\Documents\ERP-6\cnsl-Toplama\cnsl-Toplama\obj\Debug\cnsl-Toplama.pdb
+D:\erp-yedek\erp6 sınıf\cnsl-Toplama\cnsl-Toplama\bin\Debug\cnsl-Toplama.exe.config
+D:\erp-yedek\erp6 sınıf\cnsl-Toplama\cnsl-Toplama\obj\Debug\cnsl-Toplama.exe
+D:\erp-yedek\erp6 sınıf\cnsl-Toplama\cnsl-Toplama\obj\Debug\cnsl-Toplama.pdb
+C:\Users\hasan bucak\Desktop\cnsl-Toplama\cnsl-Toplama\bin\Debug\cnsl-Toplama.exe.config
+C:\Users\hasan bucak\Desktop\cnsl-Toplama\cnsl-Toplama\obj\Debug\cnsl-Toplama.exe
+C:\Users\hasan bucak\Desktop\cnsl-Toplama\cnsl-Toplama\obj\Debug\cnsl-Toplama.pdb
